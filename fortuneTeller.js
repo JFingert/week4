@@ -1,5 +1,5 @@
-fortunes = ["Morning doobies will be daily", 
-"Might fly like a Cardinal until...", 
+fortunes = ["Hard words break no bones, fine words butter no parsnips.", 
+"Help! I’m being held prisoner in a chinese bakery!", 
 "A dubious friend may be an enemy in camouflage.",
  "A golden egg of opportunity falls into your lap this month.",
   "A smile is your personal welcome mat.", 
